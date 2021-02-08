@@ -6,15 +6,15 @@
 
 `gitk`
 
-![gitk](/home/rylan/git/oss-repo-template/images/lab2/gitk.png)
+![gitk](../../images/lab2/gitk.png)
 
 `gitk --all`
 
-![gitk_all](/home/rylan/git/oss-repo-template/images/lab2/gitk_all.png)
+![gitk_all](../../images/lab2/gitk_all.png)
 
 `git log --graph --oneline --decorate`
 
-![git_log](/home/rylan/git/oss-repo-template/images/lab2/git_log.png)
+![git_log](../../images/lab2/git_log.png)
 
 
 
@@ -26,23 +26,19 @@
 
 Level 1
 
-![git_branching_1](/home/rylan/git/oss-repo-template/images/lab2/git_branching_1.png)
+![git_branching_1](../../images/lab2/git_branching_1.png)
 
 Level 2
 
-![git_branching_2](/home/rylan/git/oss-repo-template/images/lab2/git_branching_2.png)
+![git_branching_2](../../images/lab2/git_branching_2.png)
 
 Level 3
 
-![git_branching_3](/home/rylan/git/oss-repo-template/images/lab2/git_branching_3.png)
+![git_branching_3](../../images/lab2/git_branching_3.png)
 
 Level 4
 
-![git_branching_4](/home/rylan/git/oss-repo-template/images/lab2/git_branching_4.png)
-
-
-
-![git_branching_2](../../images/lab2/git_branching_2.png)
+![git_branching_4](../../images/lab2/git_branching_4.png)
 
 
 

@@ -42,7 +42,7 @@ Level 4
 
 
 
-![git_branching_2](/home/rylan/git/oss-repo-template/images/lab2/git_branching_2.png)
+![git_branching_2](../../images/lab2/git_branching_2.png)
 
 
 
@@ -52,11 +52,11 @@ Level 4
 
 `git diff` output
 
-![git-diff](/home/rylan/git/oss-repo-template/images/lab2/git-diff.png)
+![git-diff](../../images/lab2/git-diff.png)
 
 `git tag` output
 
-![git_tag](/home/rylan/git/oss-repo-template/images/lab2/git_tag.png)
+![git_tag](../../images/lab2/git_tag.png)
 
 [OSSProjectIdeas repo](https://github.com/elihschiff/OSSProjectIdeas)
 

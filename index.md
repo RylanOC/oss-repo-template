@@ -9,4 +9,6 @@ discord handle: updog#0460
 ![rylan.png](images/lab1/rylan.png)
 
 ## Lab Reports
-[Lab 1](labs/lab-01/report.md)
+* [Lab 1](labs/lab-01/report.md)
+* [Lab2](labs/lab-02/Lab2.md)
+
